@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on a mern project
+- 👯 I’m looking to collaborate on creative projects
+- 📫 How to reach me: Nagham Mhesen on LinkedIn
 <!--
 **nviamx/nviamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

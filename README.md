@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a mern project
+- 🔭 I’m currently studying swe
 - 👯 I’m looking to collaborate on creative projects
 - 📫 How to reach me: Nagham Mhesen on LinkedIn
 <img src="https://github.com/nviamx/nviamx/blob/main/Cat%20Working%20GIF.gif" width="400">
